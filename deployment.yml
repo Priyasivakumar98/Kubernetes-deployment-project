@@ -14,7 +14,7 @@ spec:
   spec:
     containers:
     - name: devops-app-container
-      image: priyankasivakumar98/devops-98
+      image: priyankasivakumar98/k8s
       ports:
       - containerPort: 9000
 
